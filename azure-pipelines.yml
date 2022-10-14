@@ -44,5 +44,3 @@ steps:
     projectName: 'pet-clinic'
     scanPath: '$(Build.SourcesDirectory)/build/libs'
     format: 'HTML'
-
-
